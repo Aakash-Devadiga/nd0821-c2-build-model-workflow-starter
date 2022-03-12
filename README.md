@@ -33,9 +33,9 @@ In this project you will build such a pipeline.
 - [Cleaning up](#cleaning-up)
 
 ## Links
-[Weights & Biases project](https://wandb.ai/raja-judeh/nyc_airbnb/overview?workspace=user-raja-judeh)
+[Weights & Biases project](https://wandb.ai/aakash_ashok/nyc_airbnb/overview)
 
-[Github Repo](https://github.com/r-judeh/nd0821-c2-build-model-workflow-starter)
+[Github Repo](https://github.com/Aakash-Devadiga/nd0821-c2-build-model-workflow-starter)
 
 ## Preliminary steps
 ### Fork the Starter kit
